@@ -1,2 +1,14 @@
-# Restaurant-Billing-System-Python
-A simple restaurant billing system using Python dictionary and loops
+# Restaurant Billing System (Python)
+
+## Project Description
+This is a simple restaurant billing system built using Python.
+
+## Features
+- Menu using Dictionary
+- User Input Handling
+- Multiple Order Support
+- Bill Calculation
+
+## Technologies Used
+- Python
+
